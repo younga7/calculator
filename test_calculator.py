@@ -4,7 +4,6 @@
 # Run this file using python3 test_calculator.py
 # This program holds funtions to unit test for the functions in calculator
 
-import unittest
 import calculator
 
 
